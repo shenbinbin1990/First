@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 ++
 <<<<<<< HEAD
 world++
@@ -6,3 +7,6 @@ world
 ++++
 >>>>>>> new-branch
 +++
+=======
+hello
+>>>>>>> parent of c816072... 删除第一行
